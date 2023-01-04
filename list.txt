@@ -175,7 +175,6 @@ linearapp.svg
 linkedin.svg
 linux.svg
 linux_mint.svg
-list.txt
 lobsters.svg
 lock.svg
 logitech.svg
